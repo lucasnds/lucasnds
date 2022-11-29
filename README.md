@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Lucas Nascimento!
 - 👀 Eu estou aprendendo desenvolvimento front-end!
 - 🌱 Meus principais projetos estão fixados na tela inicial!
-- 💎 Minhas skills são HTML5 semântico, CSS3 pure, Java, JS pure, Figma
-- 
+- 💎 Minhas skills são HTML5 semântico, CSS3 pure, Java, JS pure, Figma.
+- 📖 Em breve estarei aprendendo React.js, frameworks CSS (Bootstrap e Tailwind).
