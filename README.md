@@ -1,5 +1,5 @@
 ## Hi, I'm Lucas Nascimento, software engineering student!
-<div align="center">
+<div align="space-between">
   <a href="https://github.com/lucasnds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnds&layout=compact&langs_count=7&theme=dark"/>
