@@ -1,5 +1,10 @@
 ## Hi, I'm Lucas Nascimento, software engineering student!
 <div align="center">
+  <a href="https://github.com/lucasnds">
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasnds&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" alt="hasan-ylmz" /></p>
+</div>
+<div align="center" style="display: inline_block">
+<div align="center">
   <h3>Languages and Tools:
 </h3>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
