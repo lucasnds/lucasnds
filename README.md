@@ -1,7 +1,7 @@
 ## Hi, I'm Lucas Nascimento, software engineering student!
 <div align="center">
   <a href="https://github.com/lucasnds">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasnds&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" alt="hasan-ylmz" /></p>
+ <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnds&layout=compact&langs_count=7&theme=dark"/></p>
 </div>
 <div align="center" style="display: inline_block">
 <div align="center">
