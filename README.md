@@ -1,4 +1,4 @@
-## Hi, I'm Lucas Nascimento, software engineering student!
+## Hi, I'm Lucas Nascimento!
 <div align="center">
   <a href="https://github.com/lucasnds">
  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnds&layout=compact&langs_count=7&theme=dark"/></p>
